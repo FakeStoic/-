@@ -1,0 +1,16 @@
+/* 
+  Name:			CoolEntry
+  Type:			Entrance
+  Description:	CoolEntry Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"酷炫入场", "en-US":"Cool Entry"}
+  Class:        CoolEntry
+ */
+ 
+@keyframes coolEntry{
+	
+}
+
+.coolEntry{
+	animation-duration: 5s;
+}

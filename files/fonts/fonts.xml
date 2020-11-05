@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="FZXiaoBiaoSong-B05S" className="FskyFont_方正小标宋" url="./files/fonts/font-0-0-20201152044758.swf" ttfurl="./files/fonts/font-0-0-20201152044758.ttf"/>
+    <font name="FangSong_GB2312" className="FskyFont_FSGB2312" url="./files/fonts/font-1-0-20201152045733.swf" ttfurl="./files/fonts/font-1-0-20201152045733.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-2-0-20201152046676.swf" ttfurl="./files/fonts/font-2-0-20201152046676.ttf"/>
+    <font name="FZQingKeBenYueSongS-R-GB" className="FskyFont_FZQKBYSJW" url="./files/fonts/font-3-0-20201152046717.swf" ttfurl="./files/fonts/font-3-0-20201152046717.ttf"/>
+    <font name="STXingkai" className="FskyFont_STXINGKA" url="./files/fonts/font-4-0-20201152047518.swf" ttfurl="./files/fonts/font-4-0-20201152047518.ttf"/>
+    <font name="FontAwesome" className="" url="./files/fonts/font-5-0-20201152048335.swf" ttfurl="./files/fonts/font-5-0-20201152048335.ttf"/>
+    <font name="STZhongsong" className="FskyFont_STZHONGS" url="./files/fonts/font-6-0-20201152048379.swf" ttfurl="./files/fonts/font-6-0-20201152048379.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-7-0-20201152049180.swf" ttfurl="./files/fonts/font-7-0-20201152049180.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-7-1-20201152049889.swf" ttfurl="./files/fonts/font-7-1-20201152049889.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-7-2-202011520410547.swf" ttfurl="./files/fonts/font-7-2-202011520410547.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-7-3-202011520411324.swf" ttfurl="./files/fonts/font-7-3-202011520411324.ttf"/>
+    <font name="KaiTi_GB2312" className="FskyFont_KTGB2312" url="./files/fonts/font-8-0-202011520411985.swf" ttfurl="./files/fonts/font-8-0-202011520411985.ttf"/>
+  </fonts>
+</data>

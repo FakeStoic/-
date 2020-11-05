@@ -1,0 +1,16 @@
+/* 
+  Name:			Magnifier
+  Type:			Emphasis
+  Description:	Magnifier
+  Version:		2.0	
+  locale:		{"zh-Hans":"放大镜", "en-US":"Magnifier"}
+  Class:        Magnifier
+  Parameter:    <^   {"Options":{"times":1}}   $>
+ */
+ 
+@keyframes magnifier{
+	
+}
+.magnifier{
+	animation-duration: 2s;
+}

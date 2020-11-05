@@ -1,0 +1,17 @@
+/* 
+  Name:			MouseEmphasis
+  Type:			Emphasis
+  Description:	Mouse Emphasis Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"手形强调", "en-US":"Mouse Emphasis"}
+  Class:        MouseEmphasis
+  Parameter:    <^   {"Options":{"color":"0xffffff", "times":1}}   $>
+ */
+ 
+@keyframes mouseEmphasis {
+	
+}
+
+.mouseEmphasis{
+	animation-duration: 2s;
+}

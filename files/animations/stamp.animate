@@ -1,0 +1,17 @@
+/* 
+  Name:			Stamp
+  Type:			Entrance
+  Description:	
+  Version:		2.0	
+  locale:		{"zh-Hans":"盖章", "en-US":"Stamp"}
+  Class:        Stamp
+  Parameter:   	<^   {"Options":{"times":1, "color":"0xffffff"}}   $>
+ */
+ 
+@keyframes stamp {
+	
+}
+
+.stamp{
+	animation-duration: 2s;
+}
